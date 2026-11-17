@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1d14,50:5c4a32,100:6b7a3a&height=180&section=header&text=Leonardo%20Serr%C3%A3o&fontColor=f5ebdd&fontSize=42&fontAlignY=38&desc=Automa%C3%A7%C3%A3o%20%E2%80%A2%20IA%20%E2%80%A2%20WhatsApp%20%E2%80%A2%20Customer%20Success&descAlignY=60&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=D8C3A5&center=true&vCenter=true&width=620&lines=Construo+bots+de+WhatsApp+com+IA;Automatizo+atendimento+e+processos;Node.js+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+Claude+API" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=8A9A5B&center=true&vCenter=true&width=620&lines=Construo+bots+de+WhatsApp+com+IA;Automatizo+atendimento+e+processos;Node.js+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+Claude+API" alt="Typing SVG" />
 </p>
 
 <p align="center">
