@@ -1,14 +1,14 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:7c3aed&height=180&section=header&text=Leonardo%20Serr%C3%A3o&fontColor=e6edf3&fontSize=42&fontAlignY=38&desc=Automa%C3%A7%C3%A3o%20%E2%80%A2%20IA%20%E2%80%A2%20WhatsApp%20%E2%80%A2%20Customer%20Success&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1d14,50:5c4a32,100:6b7a3a&height=180&section=header&text=Leonardo%20Serr%C3%A3o&fontColor=f5ebdd&fontSize=42&fontAlignY=38&desc=Automa%C3%A7%C3%A3o%20%E2%80%A2%20IA%20%E2%80%A2%20WhatsApp%20%E2%80%A2%20Customer%20Success&descAlignY=60&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Construo+bots+de+WhatsApp+com+IA;Automatizo+atendimento+e+processos;Node.js+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+Claude+API" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=D8C3A5&center=true&vCenter=true&width=620&lines=Construo+bots+de+WhatsApp+com+IA;Automatizo+atendimento+e+processos;Node.js+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+Claude+API" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:serraoleonardo21@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa" /></a>
-  <a href="https://www.linkedin.com/in/leonardo-serrao-378819188/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa" /></a>
-  <img src="https://img.shields.io/badge/Ji--Paran%C3%A1%2C%20RO%20%C2%B7%20Remoto-0d1117?style=for-the-badge&logo=googlemaps&logoColor=a78bfa" />
+  <a href="mailto:serraoleonardo21@gmail.com"><img src="https://img.shields.io/badge/Email-2b1d14?style=for-the-badge&logo=gmail&logoColor=d8c3a5" /></a>
+  <a href="https://www.linkedin.com/in/leonardo-serrao-378819188/"><img src="https://img.shields.io/badge/LinkedIn-2b1d14?style=for-the-badge&logo=linkedin&logoColor=d8c3a5" /></a>
+  <img src="https://img.shields.io/badge/Ji--Paran%C3%A1%2C%20RO%20%C2%B7%20Remoto-2b1d14?style=for-the-badge&logo=googlemaps&logoColor=d8c3a5" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ Trabalho com **Customer Success e suporte N1/N2** em uma plataforma SaaS de cré
 ### 📊 Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serraoleonardo&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e6edf3&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serraoleonardo&bg_color=1e1611&color=d8c3a5&line=8a9a5b&point=f5ebdd&area=true&hide_border=true" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1f2a44,100:0d1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6b7a3a,50:5c4a32,100:2b1d14&height=100&section=footer" />
