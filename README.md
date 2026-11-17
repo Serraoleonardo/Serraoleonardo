@@ -35,7 +35,7 @@ Trabalho com **Customer Success e suporte N1/N2** em uma plataforma SaaS de cré
 |---|---|---|
 | **[Desk Hub](https://github.com/Serraoleonardo/desk-hub)** | Plataforma de atendimento white-label: chat web + WhatsApp num só painel, triagem automática, sugestão de resposta com IA, SLA e relatórios de NPS | React · Supabase · Evolution API · Claude |
 | **[Resume Analyzer](https://github.com/Serraoleonardo/Projeto-Analisador)** | Analisa currículos com IA, aponta melhorias e gera texto de perfil para o LinkedIn | Python · FastAPI · Claude API · Railway |
-| **[AMK Bot](https://github.com/Serraoleonardo/AMK_BOT)** | Bot de atendimento e vendas no WhatsApp para um pequeno negócio real, com estoque no Google Sheets | Node.js · Evolution API · Claude API |
+| **[AMK Bot](https://github.com/Serraoleonardo/amk-bot)** | Bot de atendimento e vendas no WhatsApp para um pequeno negócio real, com estoque no Google Sheets | Node.js · Evolution API · Claude API |
 | **[API Bancária Assíncrona](https://github.com/Serraoleonardo/Api_Bancaria_Assincrona)** | API REST assíncrona de operações bancárias (desafio DIO) | Python |
 
 ### 📊 Atividade
